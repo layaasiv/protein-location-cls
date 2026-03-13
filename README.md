@@ -36,7 +36,7 @@ The multiclass model identifies membrane proteins with high precision and recall
 | Class | Precision | Recall |
 |---|---|---|
 | Cytosol | 0.67 | 0.40 |
-| Membrane | high | high |
+| Membrane | 0.90 | 0.94 |
 | Nucleus | 0.67 | 0.87 |
 
 ![Confusion matrix](./imgs/multiclass_cm.png)
