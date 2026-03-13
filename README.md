@@ -26,9 +26,9 @@ ESM-2 embeddings are extracted for each protein sequence and passed through a li
 ### Binary Classification
 | Task | Accuracy |
 |---|---|
-| Cytosol vs Membrane | ~0.90 |
-| Nucleus vs Membrane | ~0.90 |
-| Nucleus vs Cytosol | ~0.72 |
+| Cytosol vs Membrane | 0.92 |
+| Nucleus vs Membrane | 0.93 |
+| Nucleus vs Cytosol | 0.72 |
 
 ### Multiclass Classification
 The multiclass model identifies membrane proteins with high precision and recall, but struggles to differentiate cytosolic from nuclear proteins.
